@@ -1,18 +1,15 @@
 import React from 'react';
+import './App.css';
 import {
   RecoilRoot,
-  atom,
-  selector,
-  useRecoilState,
-  useRecoilValue,
 } from 'recoil';
-import lottonumber from "./LottoNumber";
+import RandomuserNumber from "./UserNumber";
 
 function App() {
   return (
-    <RecoilRoot>
-      <lottonumber></lottonumber>
-    </RecoilRoot>
+    <div>
+      <RandomuserNumber>sss</RandomuserNumber>
+    </div>
   );
 }
 

@@ -83,8 +83,7 @@ function NumInput(){
     }
 
 
-    // console.log(rand7Numb,"이거")
-    // console.log(matchingCount);
+
 
 
     return <div>

@@ -4,7 +4,6 @@
 //     console.log(arr2,"나")
 //     for (let i = 0; i < arr1.length; i++) {
 //       if (arr1[i] === arr2[i]) {
-//         console.log(arr1[i],"이랑",arr2[i],"이 ",i,"번쨰에서 같아")
 //         duplicates++;
 //       }
 //     }

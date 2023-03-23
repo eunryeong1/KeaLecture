@@ -1,4 +1,3 @@
-import react from "react";
 
 //랜덤숫자 생성 함수
 function generateRandomArray(num) {
